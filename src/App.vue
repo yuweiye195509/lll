@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    我是一个项目
+    <router-view></router-view>
   </div>
 </template>
 
